@@ -1,4 +1,4 @@
-Code4Nigeria.org
+CodeForGhana.org
 ================
 
-Code4Nigeria's website.
+Code for Ghana's website - [Link](http://www.codeforghana.org)
