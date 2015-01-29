@@ -6,9 +6,9 @@ author: Adams Agalic
 thumbnail: /img/blog/open-data-barometer.png
 ---
 
-The second edition of the [Open Data Barometer](http://opendatabarometer.org) ranks Ghana as third most transparent governments in Africa. Rwanda shares the same position with Ghana in the report.
+The second edition of the [Open Data Barometer](http://opendatabarometer.org) ranks Ghana as third most transparent government in Africa. Rwanda shares the same position with Ghana in the report.
 
-Eighty six countries were surveyed by the [Web Foundation](http://www.webfoundation.org) - the organization that put the report together - for how Governments publish Open Government Open Data and allow easy accessibility to citizens.
+Eighty six countries were surveyed by the [Web Foundation](http://www.webfoundation.org) - the organization that put the report together - on how Governments publish Open Government Open Data and allow easy accessibility to citizens.
 
 The UK ranked top in the world. The US and Sweden ranked second and third respectively among developed countries.
 
