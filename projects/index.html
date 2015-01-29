@@ -1,0 +1,86 @@
+---
+layout: default
+---
+<div class="content">
+	 <div  id="container-banner" class="projects-bg">
+			<div class="dotted-bg"></div>
+	 </div>
+	 <div class="container">
+			<div class="content-area" id="projects-area">
+				 <header id="content-primary-header">  
+						<h1>[ PROJECTS ]</h1>
+				 </header>
+				 <div class="col-md-12 " id="about-projects">
+
+						<article class="page-callout" >
+							 Code for Ghana has a flagship of data-driven apps developed using open data. 
+							 Our projects are focused on promoting citizen engagement with the government and 
+							 enhancing data-driven journalism with a user-centric approach. Check out our <a href="http://github.com/CodeforGhana">repos</a> on github.
+
+						</article>
+
+
+				 </div>
+
+				 <div class="col-md-12 projects-container posts-double " >
+						<div class="col-md-6 single-project blue">
+							 <img class="img-responsive project-img" src="{{ site.url }}/img/gotovote.png">
+							 <p>
+							 GotToVote! was built as a <a href="http://www.code4kenya.org">Code4Kenya</a> data journalism project to help odinary citizens find out how a national event such as the elections affects their personal lives or local communities. Our team from Ghana adapted the concept to the Ghanaian context to help ease the hussle of voter registeration.			    	
+							 </p>
+							 <div>
+									<a href=" http://ghana.gottovote.cc/index.html"><span class="fa fa-link"></span></a>
+									<a href="https://github.com/CodeForAfrica/GotToVote"><span class="fa fa-github"></span></a>
+							 </div>
+
+						</div>
+
+						<div class="col-md-6 single-project pink">
+							 <img class="img-responsive project-img" src="{{ site.url }}/img/odekro.jpg">Odekro monitors parliamentary debate proceedings and make (Hansards) freely accessible to the citizens of Ghana. Our goal at Odekro is to promote transparency, provide online access to public records and empower citizens to keep an eye on public officials, especially parliament.
+
+							 <div>
+									<a href=""><span class="fa fa-link"></span></a>
+									<a href=""><span class="fa fa-github"></span></a>
+							 </div>
+						</div>
+						<div class="col-md-3 single-project green">
+							 <img class="img-responsive project-img" src="{{ site.url }}/img/where-our-money-dey.png">
+							 <p>
+							 Where My Money Dey? is a volunteer-built project designed to improve public accountability and civic engagement through active citizenry. The prototype was built at Ghana's first ever <a href="http://ghana.databootcamp.org/">d|Bootcamp</a> that brought together journalists and hacktivists in October 2012. A 2nd iteration was refined at a follow-up d|Bootcamp in May 2013 with help from the <a href="http://www.codeforafrica.org">Code for Africa initiative</a>
+							 </p> 
+							 <div>
+									<a href="http://wmmd.codeforafrica.org/"><span class="fa fa-link"></span></a>
+									<a href="https://github.com/CodeForAfrica"><span class="fa fa-github"></span></a>
+							 </div>
+						</div>
+
+
+				 </div>
+
+			</div>
+
+	 </div>
+</div>
+<script type="text/javascript" src="{{ site.url }}/js/masonry.js"></script>
+<script type="text/javascript">
+var container = document.querySelector('.posts-double');
+var msnry = new Masonry( container, {
+			// options
+columnWidth: 50,
+gutter: 10,
+itemSelector: '.single-project'
+});
+var $container = $('.posts-double');
+$container.imagesLoaded(function(){
+			$container.masonry({
+itemSelector : '.single-project',
+columnWidth : 10
+});
+			});
+</script>
+
+
+
+
+
+

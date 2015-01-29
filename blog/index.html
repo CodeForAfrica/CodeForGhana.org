@@ -1,0 +1,30 @@
+---
+layout: blog
+title: Blog
+---
+<div class="col-md-8 content-shadow" id="blog-content">
+
+	 <article class="blog-entry" >
+			{% for post in site.posts limit: 5 %}
+			<header>
+				 <h2 id="entry-title"><a href="{{site.url}}{{ post.url }}">{{ post.title }}</a></h2>
+				 <div class="entry-meta">
+						<ul>
+							 <li><span class="fa fa-calendar"></span> {{ post.date | date_to_string }} </li>
+							 <li><span class="fa fa-user"></span> {{ post.author }} </li>
+						</ul>
+				 </div>
+			</header>
+			{% if post.thumbnail %}
+			<img class="img-responsive post-img" src="{{ site.url }}{{ post.thumbnail }}" alt="description" title="tool tip" />
+			{% endif %}
+			<p>
+			{{ post.content | strip_html | truncate: 250 }}
+			</p>
+			<a class="readmore" href="{{ site.url }}{{ post.url }}">Continue Reading</a>
+			<hr />
+	 </article>
+
+	 {% endfor %}
+
+</div>
