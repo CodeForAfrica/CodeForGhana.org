@@ -13,7 +13,9 @@ layout: blog
 						</ul>
 				 </div>
 			</header>
-			<img class="img-responsive post-img" src="{{ site.url }}{{ page.thumbnail }}" alt="{{ page.title }}" title="tool tip"  />
+			{% if post.thumbnail %}
+			<img class="img-responsive post-img" src="{{ site.url }}{{ page.thumbnail }}" alt="description" title="tool tip" />
+			{% endif %}
 			<p>
 			{{ content }}
 			</p>
