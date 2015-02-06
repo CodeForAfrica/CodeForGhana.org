@@ -814,6 +814,15 @@ width: 100%;
 text-align: center;
 }
 
+.hiring-title{
+text-shadow: 1px 1px #000000;
+font-size: 35px;
+color: #fff;
+font-weight: bold;
+text-transform: uppercase;
+border-top: 3px double;
+border-bottom: 3px double;
+}
 .btn-transparent{
 	font-size: 24px;
 padding: 25px 35px;
