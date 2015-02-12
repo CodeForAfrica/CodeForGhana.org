@@ -16,7 +16,7 @@ body {
 }
 #wrapper {
   width: 100%;
-  height: 600px;
+  /*height: 600px;*/
   overflow: hidden;
   position: relative;
   left: 0;
