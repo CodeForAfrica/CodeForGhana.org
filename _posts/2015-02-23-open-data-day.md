@@ -25,4 +25,4 @@ It was not all talk. We had a short hackathon. This was led by Nii Okain Quaye. 
 * The third team: #50ShadesOfData built an api that will provide public access to large amounts of datasets and also enable them to contribute data to the platform.
 
 
-At the end of the event the #50ShadesOfData team was adjudged the best group. We want to thank all those who participated in the event and we promise them a mega event next year.
+At the end of the event the #50ShadesOfData team was adjudged the best group. We want to thank all those who participated in the event and we promise a mega event next year.
