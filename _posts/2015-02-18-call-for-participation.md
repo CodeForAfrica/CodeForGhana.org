@@ -2,7 +2,6 @@
 layout: post 
 title:  "Recap: Call for Participation Event @ iSpace"
 date:   2015-02-17 
-author: Elikplim Sabblah
 thumbnail: /img/blog/call-for-participation.jpg
 ---
 

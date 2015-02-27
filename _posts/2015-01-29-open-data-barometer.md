@@ -2,7 +2,6 @@
 layout: post 
 title:  "Ghana Ranked Third “Most Open Government” In Africa"
 date:   2015-01-29 
-author: Adams Agalic
 thumbnail: /img/blog/open-data-barometer.png
 ---
 

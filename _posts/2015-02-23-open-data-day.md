@@ -2,7 +2,6 @@
 layout: post 
 title:  "Recap: Open Data Day (talk, hackathon & more)"
 date:   2015-02-23 
-author: Adams Agalic
 thumbnail: /img/blog/open-data-day.jpg
 ---
 
