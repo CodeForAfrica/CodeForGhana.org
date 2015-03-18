@@ -24,7 +24,7 @@ The expertise and experience of media men will really be needed to make the proj
 * Commit a dedicated team to the project. The success of individual projects can’t be achieved by our data fellows alone, it will require a lot of assistance from their host organizations.
 * The host media organisation should also be able to demonstrate ability to start its own open data initiatives, embed data fellows and show post project commitment. Our goal is to create sustainable projects that will have a long term impact on citizens.
 
-[Apply Now](www.codeforghana.org/apply). Deadline for application is 15th March, 2015 (Updated).
+[Apply Now](www.codeforghana.org/apply). Deadline for application is 23rd March, 2015 (Extended).
 CONTACT DETAILS:
 Florence Toffa
 florence.abena@gmail.com

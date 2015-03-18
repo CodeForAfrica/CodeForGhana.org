@@ -5,6 +5,6 @@ description: > # this means to ignore newlines until "baseurl:"
   Code for Ghana brings developers, journalists, civil-society and government
   together to join hands and use available tools in ICT to make local government 
   better and increase citizen participation
-url: http://codeforghana.org
+url: http://localhost:4000
 # Build settings
 markdown: kramdown
