@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  "Three Media Houses Selected For Code for Ghana Fellowship Programme"
+title:  "Three Media Houses Selected For Code for The Ghana Fellowship Programme"
 date:   2015-04-07 
 thumbnail: /img/blog/press-release.png
 ---
