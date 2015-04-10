@@ -12,7 +12,8 @@ A country’s energy mix refers to its sources of energy either renewable or non
 
 
 The government of Ghana has created the impression that dumsor is caused by a lack of generation capacity. Nevertheless, according to a research done by Ghana Growth and Development Platform, that is not the major cause of the erratic power supply. Ghana Energy Commission stated that installed generation capacity available for grid supply by the end of 2013 was 2936 megawatt (MW). This refers to the maximum electric output a generator can produce under specific conditions. However, only about 1500 MW or 51% of the 2,936 MW installed capacity has been available in recent times. Clearly, there has been a supply deficit. Causes of this supply deficit will be stated and explained as follows:
-* Poor Infrastructure planning, maintenance and lack of system Redundancy: This has resulted in many thermal plants going off almost concurrently. The load-shedding situation has been worsened by some maintenance and retrofit works on some of the thermal plants. This is due to a poor infrastructure planning which would have prevented maintenance at critical moments.
+
+* `Poor Infrastructure planning, maintenance and lack of system Redundancy:` This has resulted in many thermal plants going off almost concurrently. The load-shedding situation has been worsened by some maintenance and retrofit works on some of the thermal plants. This is due to a poor infrastructure planning which would have prevented maintenance at critical moments.
 
 
 * `Poor credit risk of ECG:` ECG is currently the sole off-taker (buyer) of power on the market but its poor credit risk has forced Independent Power Producers (IPPs) to demand sovereign guarantees in power purchase agreements before commencing operations.  Thus, many potential IPPs do not consider ECG as a credible, bankable off-taker because it has ran at a loss most years in the last three decades.
