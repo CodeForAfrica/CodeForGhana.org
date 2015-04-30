@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  "Recap: Twitter Chat On The Impact Of Open Data On Socio-Economic Dev't In Ghana"
+title:  "Twitter Chat Recap: The Impact Of Open Data On Socio-Economic Dev't In Ghana"
 date:   2015-04-30 
 author: Adams Agalic
 thumbnail: /img/blog/c4g-poster.png
