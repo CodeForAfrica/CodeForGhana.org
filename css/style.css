@@ -880,6 +880,7 @@ position: relative;i
 overflow: hidden;
 border-bottom: 3px double #fff;
 border-top: 3px double #fff;
+text-align: center;
 }
 
 .slider-bg .caption-subtitle {
