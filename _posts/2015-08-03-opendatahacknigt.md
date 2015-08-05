@@ -17,11 +17,11 @@ Early Saturday morning, we were joined by Code for Ghana data fellow Afua Ankoma
 
 In all we had seven projects: [Team X](http://mwga.meteor.com/), [Team Awesome](http://davidlartey.com/data-awesome), Team AIT, [Team Sprouty](http://www.teamsprouty.sproutypromo.com/pages/agricultural-gdp-trends), [Team Dab Lab](http://github.com/laudb/dablab), [Team Fire Viz](http://www.fireviz.pe.hu) and [Dear MP]().
 
-Team X was the first to make their presentation. They built a platform that displays commodity prices in Ghana on the world market. 
 
-###Projects of the Hack Night
+###Some Projects of the Hack Night
 <hr />
 [![Team X](/img/blog/teamx.png "Team X Graph"){: .col-md-6}](http://mwga.meteor.com/)
 [![Data Awesome](/img/blog/data-awesome.png "Data Awesome"){: .col-md-6}](http://davidlartey.com/data-awesome)<br />
 [![Fire Viz](/img/blog/fireviz.png "Fire Viz"){: .col-md-6}](http://fireviz.pe.hu/)
-[![Sprouty Viz](/img/blog/sprouty.png "Sprouty Viz"){: .col-md-6}](http://www.teamsprouty.sproutypromo.com/pages/agricultural-gdp-trends)
+[![Sprouty Viz](/img/blog/sprouty.png "Sprouty Viz"){: .col-md-6}](http://www.teamsprouty.sproutypromo.com/pages/agricultural-gdp-trends)<br />
+[![Dear MP](/img/blog/dearmp.png "DearMP Viz"){: .col-md-6}](https://github.com/achere/dsr)
