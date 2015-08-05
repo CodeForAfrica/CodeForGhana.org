@@ -19,6 +19,7 @@ In all we had seven projects: [Team X](http://mwga.meteor.com/), [Team Awesome](
 
 At the end of the day Dear MP emerged as the winners of the competition. It is a platform on which people can register their grievances about areas with poor sanitary conditions and bad roads by either writing about them or uploading photos. The aim is to keep the people responsible on their toes to find solutions to these problems. It was a closely contested competition as the other teams had innovative projects too.  
 
+
 ###Some Projects of the Hack Night
 <hr />
 [![Team X](/img/blog/teamx.png "Team X Graph"){: .col-md-6}](http://mwga.meteor.com/)
