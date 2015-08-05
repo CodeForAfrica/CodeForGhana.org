@@ -5,7 +5,7 @@ title: Blog
 <div class="col-md-8 content-shadow" id="blog-content">
 
 	 <article class="blog-entry" >
-			{% for post in site.posts limit: 5 %}
+			{% for post in site.posts  %}
 			<header>
 				 <h2 id="entry-title"><a href="{{site.url}}{{ post.url }}">{{ post.title }}</a></h2>
 				 <div class="entry-meta">
@@ -26,7 +26,8 @@ title: Blog
 
 	 {% endfor %}
 	 <p>
-	 	
-	 	<strong><a href="{{ site.url }}/archive">BLOG ARCHIVE</a></strong>
+	 <a href="{{ site.url }}/archive">MORE BLOG POSTS</a>
 	 </p>
+
+
 </div>
