@@ -12,7 +12,9 @@ thumbnail: /img/blog/opendatahacknight.jpg
 [![Data Awesome](/img/blog/data-awesome.png "Data Awesome"){: .col-md-6}](http://davidlartey.com/data-awesome)<br />
 [![Fire Viz](/img/blog/fireviz.png "Fire Viz"){: .col-md-6}](http://fireviz.pe.hu/)
 [![Sprouty Viz](/img/blog/sprouty.png "Sprouty Viz"){: .col-md-6}](http://www.teamsprouty.sproutypromo.com/pages/agricultural-gdp-trends)<br />
-[![Dear MP](/img/blog/dearmp.png "DearMP Viz"){: .col-md-12}](https://github.com/achere/dsr)<br />
+[![Dear MP](/img/blog/dearmp.png "DearMP Viz"){: .col-md-6}](https://github.com/achere/dsr)
+[![Infocedento](/img/blog/infocidento.png/.png "DearMP Viz"){: .col-md-6}]( https://github.com/kennyung6/Project-Infocidento.git)
+<br />
 <hr />
 
 
@@ -27,7 +29,7 @@ Soon after that, the participants were asked to break into groups, come up with 
 
 The teams that had some of their members going home were pleased to see them come by early Saturday morning. On Saturday, we were joined by Code for Ghana data fellow Afua Ankomah. She came to supervise the work of the teams and offered help where needed. Gradually the individual projects were shaping up and one could easily see what each team intended to build. Another remarkable thing about the hackathon was the fact that the participants were fairly young – most of them were students – but the level of enthusiasm was very high. The participants were allowed to code for almost the whole day. At 5pm, they were asked to stop and present their projects.
 
-In all we had seven projects: [Team X](http://mwga.meteor.com/), [Team Awesome](http://davidlartey.com/data-awesome), Team AIT, [Team Sprouty](http://www.teamsprouty.sproutypromo.com/pages/agricultural-gdp-trends), [Team Dab Lab](http://github.com/laudb/dablab), [Team Fire Viz](http://www.fireviz.pe.hu) and [Dear MP](https://github.com/achere/dsr).
+In all we had seven projects: [Team X](http://mwga.meteor.com/), [Team Awesome](http://davidlartey.com/data-awesome), [Team AIT]( https://github.com/kennyung6/Project-Infocidento.git ), [Team Sprouty](http://www.teamsprouty.sproutypromo.com/pages/agricultural-gdp-trends), [Team Dab Lab](http://github.com/laudb/dablab), [Team Fire Viz](http://www.fireviz.pe.hu) and [Dear MP](https://github.com/achere/dsr).
 
 At the end of the day, the judge, Dr Mohammed Sani Abdullah from the University of Professional Studies  judged “Dear MP”  as the winner of the competition. It is a platform on which people can register their grievances about areas with poor sanitary conditions and bad roads by either writing about them or uploading photos. The aim is to keep the people responsible on their toes to find solutions to these problems. It was a closely contested competition as the other teams had innovative projects too.
 
