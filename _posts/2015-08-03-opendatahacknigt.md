@@ -13,7 +13,7 @@ thumbnail: /img/blog/opendatahacknight.jpg
 [![Fire Viz](/img/blog/fireviz.png "Fire Viz"){: .col-md-6}](http://fireviz.pe.hu/)
 [![Sprouty Viz](/img/blog/sprouty.png "Sprouty Viz"){: .col-md-6}](http://www.teamsprouty.sproutypromo.com/pages/agricultural-gdp-trends)<br />
 [![Dear MP](/img/blog/dearmp.png "DearMP Viz"){: .col-md-6}](https://github.com/achere/dsr)
-[![Infocedento](/img/blog/infocidento.png/.png "DearMP Viz"){: .col-md-6}]( https://github.com/kennyung6/Project-Infocidento.git)
+[![Infocedento](/img/blog/infocidento.png "DearMP Viz"){: .col-md-6}]( https://github.com/kennyung6/Project-Infocidento.git)
 <br />
 <hr />
 
