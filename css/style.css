@@ -313,7 +313,7 @@ right: 12px;
 	background: url(../img/databootcamp1.png) no-repeat center fixed;
 	padding-top: 60px;
 	padding-bottom: 120px;
-	background-color: rgba(0, 0, 0, 0.6);
+	background-color:#0C69A9;
 	background-size:   cover;          
     background-position: center center; 
     min-height: 400px;
@@ -447,18 +447,35 @@ right: 12px;
 }
 
 
-.member-bio{
-	text-align: center;
+.member-bio p{
+	text-align: left;
+	padding: 10px;
 }
 
 .member-bio{
 	border: 1px solid #ccc;
 	margin-bottom: 25px;
 }
+.member-bio img{
+	width: 100%;
+}
+
+.bio-meta{
+	background: #f2f2f2;
+	padding: 5px;
+	color: #0d1d31;
+	text-align: center;
+	border-bottom: 1px solid #ccc;
+}
+
 .team-member h4{
 	font-size: 20px;
 	font-weight: bold;
 	text-align: center;
+}
+
+.team-member{
+	height: 900px;
 }
 .blog-bg{
     background-image: url(../img/blog-bg.png);
@@ -466,6 +483,14 @@ right: 12px;
 
 .projects-bg{
     background-image: url(../img/projects-bg.png);
+}
+
+.hacknightproject{
+	color: red; 
+	border-radius: 50%; 
+	border: 1px solid red; 
+	font-size: 9px; 
+	padding: 2px 5px;
 }
 
 .resources-bg{
@@ -897,7 +922,6 @@ margin: 30px 0 0 0;
 position: relative;
 min-height: 100%;
 height: 100%;
-min-height: 600px;
 padding-top: 100px;
 padding-bottom: 60px;
 }
