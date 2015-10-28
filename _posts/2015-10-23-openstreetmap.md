@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Liberating Map Data Using OpenStreetMap
+title: Liberating Geo Data Using OpenStreetMap
 date: 2015-10-23
 thumbnail: /img/osmevent.jpg
 ---
