@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Child Mortality and Sanitation in Ghana 2015
-date: 2015-10-20
+date: 2015-10-26
+thumbnail: /img/blog/child-mortality
 ---
 
 The Millennium Development Goals are time-bound targets set by one of the greatest gathering of world leaders in history to combat poverty, hunger, diseases, lack of adequate shelter etc. in the world. The goals were set to better the living conditions of citizens of the countries represented at the summit.
