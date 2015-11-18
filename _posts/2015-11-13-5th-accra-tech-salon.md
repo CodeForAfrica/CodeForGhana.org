@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5th Accra Tech Tech Salon- GIS For Health
+title: 5th Accra Tech Salon- GIS For Health
 date: 2015-11-13
 thumbnail: /img/blog/tech-salon-map.png
 ---
