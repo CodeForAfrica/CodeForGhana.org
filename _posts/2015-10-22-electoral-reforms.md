@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Electoral Reforms & Voter Turn Out Since 1192
+title: Electoral Reforms & Voter Turn Out Since 1992
 date: 2015-10-22
 thumbnail: /img/blog/electoral-reforms.png
 ---
