@@ -25,10 +25,11 @@ var layer = new google.maps.FusionTablesLayer({
 
   google.maps.event.addListener(layer, 'click', function(e){
     e.infoWindowHtml = '<img src="'+e.row['Image'].value+'"style="float: left; margin: 5px;"/>'+
-                       '<strong> Best Farmer: </strong>'+ e.row['Name of Farmer'].value+'<br />'+
+                       '<strong> Best Farmer: </strong><strong style="font-weight:bold">'+ e.row['Name of Farmer'].value+'<br /></strong>'+
                        '<strong> Year: </strong>'+e.row['YEAR'].value+'<br />'+   
                        '<strong> Venue: </strong>' + e.row['Venue'].value+'<br />' + 
                        '<strong> Venue Region: </strong>' + e.row['Venue Region'].value+'<br />' +
-                       '<strong> Region Of Winner: </strong>' + e.row['Region of Winner'].value+'<br />';
+                       '<strong> Region Of Winner: </strong>' + e.row['Region of Winner'].value+ '<br />'+
+                       '<strong> Theme: </strong>' + e.row['Theme'].value+'<br />';
   });
 }
