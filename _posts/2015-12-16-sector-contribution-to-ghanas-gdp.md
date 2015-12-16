@@ -281,11 +281,7 @@ It has already been hinted above that there are several sub-sectors of each of t
     .data(sample_data)  // data to use with the visualization
     .type("line")       // visualization type
     .title("Contribution of Major Economic Sectors")
-    .id("name")   
-    .tooltip(
-    { "html" : htmlButton
-      
-      })
+    .id("name")  
     .height(400)      // key for which our data is unique on
     .text("name")       // key to use for display text
     .y("value")         // key to use for y-axis
