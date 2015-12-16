@@ -280,7 +280,7 @@ It has already been hinted above that there are several sub-sectors of each of t
     .container("#overall-gdp")  // container DIV to hold the visualization
     .data(sample_data)  // data to use with the visualization
     .type("line")       // visualization type
-    .title("Contribution by Major Economic Sectors")
+    .title("Contribution of Major Economic Sectors")
     .id("name")   
     .tooltip(
     { "html" : htmlButton
@@ -317,9 +317,6 @@ It has already been hinted above that there are several sub-sectors of each of t
 
 
 
-
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.10/d3.js"></script>
 <script>
 
 var margin = 20,
@@ -341,7 +338,7 @@ var svg = d3.select("#chart").append("svg")
   .append("g")
     .attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
 
-d3.json("/js/ghanagdp.json", function(error, root) {
+d3.json("/js/gdpdata.json", function(error, root) {
   if (error) throw error;
 
   var focus = root,
