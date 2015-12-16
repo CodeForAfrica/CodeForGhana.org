@@ -1,0 +1,46 @@
+{
+	"name" : "Overall GDP",
+	"children" : 
+	[
+		{ "name" : "Agriculture",
+			"children" :
+			[
+				{"name" : "Crops", "size":1000 },
+				{"name" : "Livestock", "size": 1000 },
+				{"name" : "Forestry And Logging", "size": 1000 },
+				{"name" : "Fishing", "size": 1000 }
+
+			]
+		},
+		{ "name" : "Industry",
+			"children" :
+			[
+				{"name" : "Mining and Quarrying",  "size": 1000 },
+				{"name" : "Manufacturing",  "size": 1000 },
+				{"name" : "Electricity", "size": 1000 },
+				{"name" : "Water and Sewerage", "size" : 1000 },
+				{"name" : "Construction", "size": 1000 }
+
+			]
+		},
+		{
+			"name" : "Services",
+			"children" :
+			[
+				{"name" : "Trade", "size":1000 },
+				{"name" : "Hospitality", "size": 1000 },
+				{"name" : "Transport ", "size": 1000},
+				{"name" : "IT", "size" : 1000},
+				{"name" : "Financial Activities", "size": 1000 },	
+				{"name" : "Real Estate", "size": 1000 },
+				{"name" : "Public Adiministration  ", "size": 1000 },
+				{"name" : "Education", "size": 1000 },
+				{"name" : "Health And Social Work", "size": 1000 },
+				{"name" : "Community Service", "size": 1000 }
+			]
+		}
+	]
+}
+
+
+
