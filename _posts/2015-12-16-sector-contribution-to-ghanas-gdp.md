@@ -341,7 +341,7 @@ var svg = d3.select("#chart").append("svg")
   .append("g")
     .attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
 
-d3.json("/js/ghanagdp.json.json", function(error, root) {
+d3.json("/js/ghanagdp.json", function(error, root) {
   if (error) throw error;
 
   var focus = root,
