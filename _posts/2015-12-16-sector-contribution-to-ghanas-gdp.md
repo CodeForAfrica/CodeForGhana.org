@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2015-12-16
-thumbnail: /img/blog/ghana-gdp.png
+thumbnail: /img/blog/ghanagdp.png
 title: Overview of Ghana's GDP (2006 - 2014)
 ---
 A country’s Gross Domestic Product refers to ‘the monetary value of all the finished goods and services produced within the borders of the country in a specific time period’. Though it is usually measured over a one-year period, it can be also be measured after six months. 
