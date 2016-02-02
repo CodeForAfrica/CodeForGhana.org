@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta charset="UTF-8"/>
+	<title>Visualising Ghana 2016 Budget Revenues</title>
+
+	<script type="text/javascript" src="../assets/scripts/jquery.min.js"></script>
+	<script type="text/javascript" src="../assets/scripts/jquery-migrate.min.js"></script>
+	<script type="text/javascript" src="../assets/scripts/jquery.history.js"></script>
+	<script type="text/javascript" src="../assets/scripts/jquery.tooltip.min.js"></script>
+	<script type="text/javascript" src="../assets/scripts/raphael-min.js"></script>
+	<script type="text/javascript" src="../assets/scripts/Tween.js"></script>
+	<script type="text/javascript" src="../assets/scripts/bubbletree.js"></script>
+	<script type="text/javascript" src="http://assets.openspending.org/openspendingjs/master/lib/aggregator.js"></script>
+	<link rel="stylesheet" type="text/css" href="../assets/styles/bubbletree.css" />
+	<script type="text/javascript" src="../assets/styles/cofog.js"></script>
+
+	<script type="text/javascript">
+
+		$(function() {
+			var data = {
+				label: 'Total',
+				amount: 38038053009,
+				color: '#ff3300',  // color for root node, will be inherited by children
+				children: [
+				{ label: 'TAXES ON INCOME & PROPERTY ', amount: 12071992938, color: '#790586',
+				children: [
+				{ label: 'Personal'	,  amount: 4229346000, color: '#C75746' },
+				{ label: 'Self Employed',	 amount: 344822000, color: '#481B79'},
+				{ label: 'Companies' ,  amount: 5501187815, color: '#CD531C'},
+				{ label: 'Company Taxes on Oil',  amount: 111487914, color: '#CD531C'},
+				{ label: 'Others',	 amount: 1885149209, color: '#EDC92D' }
+				] 
+			},
+			{ label: 'TAXES ON DOMESTIC GOODS & SERVICES ', amount: 11323878211, color: '#A5B425',
+			children: [
+			{ label: 'Excises'	,  amount: 2893537211, color: '#211D79' },
+			{ label: 'VAT',	 amount: 6971538000, color: '#ff3300'},
+			{ label: 'National Health Insurance Levy (NHIL)' ,  amount: 1145250000, color: '#449256'},
+			{ label: 'Communication Service Tax',  amount: 313553000, color: '#7A2077'},
+			] 
+		},
+		{ label: 'TAXES ON INTERNATIONAL TRADE ', amount: 5472581519, color: '#CA221D',
+		children: [
+		{ label: 'Imports Duties'	,  amount: 4752581519, color: '#E29826' },
+		{ label: 'Exports',	 amount: 720000000, color: '#ff3300'},
+		] 
+	},
+	{ label: 'SOCIAL CONTRIBUTIONS	SSNIT Contribution to NHIL', amount: 352025000, color: '#44913D' },
+	{ label: 'NON-TAX REVENUE', amount: 7209709574, color: '#14388C' ,
+	children: [
+	{ label: 'Retention',	 amount: 3532373894, color: '#2458A3'},
+	{ label: 'Lodgement',	 amount: 3677335680, color: '#ff3300'},
+	]
+},
+{ label: 'GRANTS', amount: 1607865766, color: '#2458A3'}
+]
+};
+
+new BubbleTree({
+	data: data,
+	container: '.bubbletree'
+});
+});
+
+</script>
+</head>
+<body>
+	<div class="bubbletree-wrapper">
+		<div class="bubbletree"></div>
+		<h3 style="text-align: center; font-size: 32px; color: #2D0082;">Visualising Ghana's 2016 Budget Revenues</h3>
+		
+	</div>
+</body>
+</html>
