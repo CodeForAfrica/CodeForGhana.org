@@ -14,5 +14,5 @@ A close study of the 2016 Budget Appendix reveals that government’s greatest s
 Below is an interactive bubble that reveals the 2016 budget revenue of Ghana. 
 
 <div class="center">
-	<iframe width="100%" height="600" src="http://localhost:4000/resources/minimal/index.html" frameborder="0" scrolling="no"></iframe>
+	<iframe width="100%" height="600" src="http://www.codeforghana.org/resources/minimal/index.html" frameborder="0" scrolling="no"></iframe>
 </div>
