@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  "Africa's Corruption Perception (2014 - 2015)"
+title:  "Africa's Corruption Perception Index (2014 - 2015)"
 date:   2016-02-18 
 thumbnail: /img/blog/africacorruption.png
 ---
