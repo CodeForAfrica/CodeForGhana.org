@@ -20,5 +20,5 @@ In the CODEO report, some of these irregularities include: Intimidation or Haras
  Check out this interactive bar graph that displays how many incidents of election irregularities were recorded in CODEO’s report on the 2012 Ghana elections in all ten regions of Ghana.
 
 <div class="center">
-	<iframe width="100%" height="600" src="http://www.codeforghana.org/resources/ghana2012electionirregularities.html" frameborder="0" scrolling="no"></iframe>
+	<iframe width="100%" height="800" src="http://www.codeforghana.org/resources/ghana2012electionirregularities.html" frameborder="0" scrolling="yes"></iframe>
 </div>
