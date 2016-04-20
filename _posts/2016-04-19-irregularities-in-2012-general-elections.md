@@ -11,11 +11,13 @@ Ghanaians are no foreigners to the issue of elections irregularities. After the 
 
 In the CODEO report, some of these irregularities include: Intimidation or Harassment, Violence, Violation of voting procedures, Vote buying/bribery etc. In the visualization below, there were other irregularities that were categorized under the broad heading ‘Others’. According to the CODEO report, here are the ones that fall under this classification:
 
-•  	Absence of security at polling station, harassment of EC officials because of late start of voting;
-•  	Malfunctioning of verification machines and associated challenges;
-•  	Misunderstanding between party agents and Presiding Officers over placement of seals on ballot boxes;
-•  	Arguments between Presiding Officers and voters leading to delayed voting; and
-•   Fighting among voters in the queue and subsequent disruption in the voting process.
+
+
+-  	Absence of security at polling station, harassment of EC officials because of late start of voting;
+-  	Malfunctioning of verification machines and associated challenges;
+-  	Misunderstanding between party agents and Presiding Officers over placement of seals on ballot boxes;
+-  	Arguments between Presiding Officers and voters leading to delayed voting; and
+-   Fighting among voters in the queue and subsequent disruption in the voting process.
  
  Check out this interactive bar graph that displays how many incidents of election irregularities were recorded in CODEO’s report on the 2012 Ghana elections in all ten regions of Ghana.
 
