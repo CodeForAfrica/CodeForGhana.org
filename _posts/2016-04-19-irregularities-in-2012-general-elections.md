@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  "Irregularities in 2012 general elections"
+title:  "Ghana's 2012 Elections Irregularities (CODEO Report)"
 date:   2016-04-19 
 thumbnail: /img/blog/electionirregularities.png
 ---
@@ -24,3 +24,5 @@ In the CODEO report, some of these irregularities include: Intimidation or Haras
 <div class="center">
 	<iframe width="100%" height="800" src="http://www.codeforghana.org/resources/ghana2012electionirregularities.html" frameborder="0" scrolling="yes"></iframe>
 </div>
+
+Source: <a target="_blank" href="http://www.codeoghana.org/">CODEO</a>
