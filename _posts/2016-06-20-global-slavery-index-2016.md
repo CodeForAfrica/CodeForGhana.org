@@ -2,7 +2,7 @@
 layout: post 
 title:  "Global Slavery Index 2016 (Africa)"
 date:   2016-06-20 
-thumbnail: /img/blog/globalslavery.png
+thumbnail: /img/blog/globalslavery.PNG
 ---
 
 Usually when we hear the word ‘slavery’, we cast our minds back to the Transatlantic slave trade which was abolished centuries ago. Therefore some people don’t regard slavery as a contemporary phenomenon. As far as they are concerned, it has been abolished and there are absolutely no slaves in the world. This is not the case at all. The slave trade has been abolished but slavery still exists - a new kind of slavery actually. It is called Modern or Contemporary Slavery. 
