@@ -21,4 +21,4 @@ Below is a visualization of some African Countries and how many people are in Mo
 	<iframe width="100%" height="800" src="http://www.codeforghana.org/resources/globalslavery.html" frameborder="0" scrolling="yes"></iframe>
 </div>
 
-Source: <a target="_blank" href="#">Global Slavery Index 2016</a>
+Source: <a target="_blank" href="http://www.globalslaveryindex.org/index/">Global Slavery Index 2016</a>
