@@ -13,7 +13,7 @@ Forced Labour is mostly found in the following industries:  construction, drug t
 
 >‘The Global Slavery Index provides an estimate of the number of people in modern slavery, the factors that make individuals vulnerable to this crime, and an assessment of government action across 167 countries’. 
 
-The third edition of the Global Slavery Index, makes some frightening revelations that inform the reader how prominent Slavery is in our world today. Even for those who know that there are slaves in our world today, most don’t know how many are in their country of birth. According to the Global Slavery Index 2016, _‘the estimated number of people in Modern slavery globally is 45.8 million’_. This is alarming! It is imperative that governments all over the world make the eradication of Modern Slavery a priority. 
+The third edition of the Global Slavery Index, makes some frightening revelations that inform the reader how prominent Slavery is in our world today. Even for those who know that there are slaves in our world today, most don’t know how many are in their country of birth. According to the Global Slavery Index 2016, _‘the estimated number of people in Modern slavery globally is 45.8 million’_dwrhj. This is alarming! It is imperative that governments all over the world make the eradication of Modern Slavery a priority. 
 
 Below is a visualization of some African Countries and how many people are in Modern Slavery according to the Global Slavery Index 2016. 
 
