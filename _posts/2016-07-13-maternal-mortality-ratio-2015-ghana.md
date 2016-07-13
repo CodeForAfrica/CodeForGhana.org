@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2016-07-13
-title: Msternal Mortality Ration 2015(Ghana)
-thumbnail: /img/blog/mortality2.jpg
+title: Maternal Mortality Ratio 2015(Ghana)
+thumbnail: /img/blog/mortality.jpg
 
 ---
 “**Maternal Mortality** is the death of a woman while pregnant or within 42 days of termination of pregnancy, irrespective of the duration and site of the pregnancy, from any cause related to or aggravated by the pregnancy or its management but not from accidental or incidental causes.”
