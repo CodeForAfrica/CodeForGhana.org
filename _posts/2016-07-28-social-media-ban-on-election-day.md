@@ -12,6 +12,6 @@ Certainly, social media has become an essential part of the lives of most people
 
 _Below is a visualization of the number of Ghanaians who use the internet and facebook._
 
-![Internet and facebook users in Ghana](/img/blog/pop.jpg)
+![Internet and facebook users in Ghana](/img/blog/pop.jpg =628x493)
 
 Social media can also be used as a tool for advocacy. Just last year, we saw how some celebrities in the country used a hashtag on twitter to mobilize people to protest against the government’s inability to solve the power crisis. Social media is a very powerful tool; it is also a dangerous one. This is because, unlike traditional media, there is very little regulation on social media. Therefore, it can be used to stir people up to engage in violent acts before, during and after the elections. I am tempted to believe this is the reason why the IGP is considering banning social media on election day. However, doesn’t this infringe on the rights of citizens to express their opinions? We thought of this and decided to run a poll on twitter to find out people’s opinions on the issue. 99 people voted and from the results: 79% of the people who voted didn’t agree with the IGP, 10 % did and the other 11% just didn’t care. 
