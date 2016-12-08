@@ -1,3 +1,4 @@
+---
 layout: post
 date: 2016-08-12
 title: Ghana Election 2016 App 
