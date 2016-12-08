@@ -1,7 +1,7 @@
 ---
 layout: post 
 title:  "Special Voting Voter Turnout (Gh. Election 2016)"
-date:   2016-09-23 
+date:   2016-12-08 
 thumbnail: /img/blog/specialvoting.png
 ---
 
