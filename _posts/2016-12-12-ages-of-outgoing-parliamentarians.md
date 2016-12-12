@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  "Ages of Outgoing Ghanaian Parliamentarians"
+title:  "Ages of Out-going Ghanaian Parliamentarians"
 date:   2016-12-12 
 thumbnail: /img/blog/ages.png
 ---
@@ -9,8 +9,7 @@ The age of politicians often comes up during conversations about the eligibility
 
 Let’s put the spotlight on the ages of the out-going parliamentarians. The visualization below details age ranges and how many parliamentarians fall under each of them. It is clear from the bar graph that the majority of the outgoing parliamentarians are above the age of 50. In this year’s election, [Francisca Oteng-mensah](https://www.facebook.com/Francisca2016MP/?fref=ts), a 23 year old lady won the seat in the Kwabre East constituency in the Ashanti Region. This is a historic event because she is the youngest Member of Parliament in Ghana’s history. 
 
-Plato is known to have said that:
-> ‘it is for the elder man to rule and for the younger to submit’
+>Plato is known to have said that ‘it is for the elder man to rule and for the younger to submit’.
 
 This hints of a system of government called Gerontocracy. It refers to a society where leadership is reserved for the elderly. It isn’t particularly the case in Ghana, however, it would be refreshing to know that the youth are fairly represented in parliament. Hopefully, Francisca will set the pace for many other young aspiring politicians in the country to pursue their dreams.
 
