@@ -12,8 +12,8 @@ Code for Ghana fellow Nana Baah Gyan conducted a research to discover the extent
 
 Below is a bar graph that also reveals the most popularly used words with the hashtag. 
 
-![Visualization](/img/blog/cnn2.png)
+![Visualization](/img/blog/cnnmiddle.png)
 
 Though Sunday 11th December, 2016 was when the euphoria surrounding the hashtag heightened, there was a spill-over into subsequent days. Below is a histogram revealing how many tweets were recorded within 24 hours from 00:00 am 12th December to 00:00 am 13th December.  
 
-![Visualization](/img/blog/cnn3.png)
+![Visualization](/img/blog/cnnfinal.png)
