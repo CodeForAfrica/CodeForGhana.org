@@ -10,8 +10,8 @@ The Bank of Ghana released Payment System Statistics in Ghana from 2012 to 2016.
 
 Below are two visualizations displaying how this payment system has caught on with Ghanaians depicted by its dramatic growth over the period of 4 years. 
 
-###**Mobile Money Customers and Agents**
-![Visualization](/img/blog/mm.jpg)
+**Mobile Money Customers and Agents**
+![Visualization](/img/blog/mmod2.jpg)
 
-###**Total Value and Volume of Transactions**
-![Visualization](/img/blog/mobilem.jpg)
+**Total Value and Volume of Transactions**
+![Visualization](/img/blog/mmod.jpg)
