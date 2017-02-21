@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  "Mobile Money Statistics in Ghana (2012 - 2016)"
+title:  "Mobile Money Statistics and Opportunities in Ghana"
 date:   2017-02-20
 thumbnail: /img/blog/mmod.jpg
 ---
