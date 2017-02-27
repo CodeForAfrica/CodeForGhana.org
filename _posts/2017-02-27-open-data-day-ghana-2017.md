@@ -7,11 +7,8 @@ thumbnail: /img/blog/ODD.jpg
 
 Code for Ghana is once again organizing the Open Data Day Ghana at Mobile Web Ghana. The theme for this year's event is “Open Contracting and tracking public money flow”. 
 
-Open contracting involves analysing government contract data to have a better understanding of how government spent public funds on some projects. Ghanaians would like to know for example:
-
-*How much money was spent to build the new Kwame Nkrumah Interchange? 
-*How did the government decide which company got the contract? 
-*Did that company actually deliver according to the contract?
+Open contracting involves analysing government contract data to have a better understanding of how government spent public funds on some projects. Ghanaians would like to know for example: How much money was spent to build the new Kwame Nkrumah Interchange?  How did the government decide which company got the contract? 
+Did that company actually deliver according to the contract?
 
 These are some of the questions that citizens of this country need answers to. However, it is the task of data analysts to analyse this data and civic technologists to visualize the data or develop apps / visualizations that will help the ordinary citizen better understand these issues. 
 
