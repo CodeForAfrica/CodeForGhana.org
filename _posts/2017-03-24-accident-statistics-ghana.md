@@ -14,8 +14,8 @@ We cannot ignore the human factor also when discussing the causes of accidents. 
 Below is a collection of infographics, visualizing Motor Accident Statistics in Ghana in 2016. 
 
 
-![Visualization](/img/blog/acc2.jpg)
+<img src="img/blog/acc2.jpg" width="623" height="425"/>
 
-![Visualization](/img/blog/acc3.jpg)
+<img src="img/blog/acc3.jpg" width="623" height="425"/>
 
-![Visualization](/img/blog/acc4.jpg) 
+<img src="img/blog/acc4.jpg" width="623" height="425"/>
