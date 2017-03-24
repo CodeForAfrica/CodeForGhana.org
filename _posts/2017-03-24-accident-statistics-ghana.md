@@ -19,4 +19,4 @@ Below is a collection of infographics, visualizing Motor Accident Statistics in 
 ![Visualization](/img/blog/acc3.jpg)
 
 
-![Visualization](/img/blog/acc4.jpg)
+![Visualization](/img/blog/acc401.jpg)
