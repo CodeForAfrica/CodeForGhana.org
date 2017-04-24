@@ -8,7 +8,7 @@ The Code for Ghana team loves working with data because it reveals hidden insigh
 
 For, we have been able to work on three data stories namely, [“Longest-serving African Presidents (December, 2016)”](http://www.codeforghana.org/2017/01/31/longest-serving-african-presidents.html), [“Mobile Money Statistics and Opportunities in Ghana”](http://www.codeforghana.org/2017/02/20/mobile-money-statistics-in-ghana.html) and [“Motor Accidents in Ghana 2016 (Infographic)”](http://www.codeforghana.org/2017/02/20/mobile-money-statistics-in-ghana.html). For the motor accident data story, we did different infographic visualizations to depict various aspects of the data set. In all these data stories generated interesting conversations amongst our online followers. We are hoping that these conversations don’t start and end on social media. Our main aim is to present open data in a much understandable format for the average Ghanaian to be informed about government’s dealings and also alert policy makers to take action. Here is a visualization depicting how much engagements these data stories received on twitter.
 
-![Visualization](/img/blog/TE.png)
+![Visualization](/img/blog/TE.jpg)
 
 We have had 2 events so far, highlights of these events are as follows.
 
