@@ -24,8 +24,8 @@ participants broke into groups and started working on their projects. At the
 end of the day, judges awarded the best teams with prizes. You can read
 all about this year’s open data day 2017 [here](https://blog.okfn.org/2017/03/23/code-for-ghana-celebrates-open-data-day-tracking-public-money-flow/).
 
-![Visualization](/img/blog/069.jpg)
-![Visualization](/img/blog/073.jpg)
+![Visualization](/img/blog/code1.jpg)
+![Visualization](/img/blog/code2.jpg)
 
 Klarity User Feedback Workshop: Klarity is a Sweden-based organization that is developing a platform to help citizens build more open and transparent society in Ghana. To ensure that the platform serves the purpose for which it is being built, the Klarity team decided to organize this workshop to sample views from Ghanaians from all walks of life. We had two groups of participants. Both sessions were characterized by interesting discussions concerning building a more transparent society in Ghana.
 
