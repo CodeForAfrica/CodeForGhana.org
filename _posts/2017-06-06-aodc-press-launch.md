@@ -16,11 +16,11 @@ Hon. Ursula Owusu further stated that:
  
 The honorable minister indicated the present government will build on this and make open data accessible to everyone that needs it. She was quick to add “..., we (the government) are going to pass the Freedom of Information Law” to the delight of all gathered there. Hon. Ursula Owusu-Ekuful enumerated the objectives for hosting the Africa Open Data Conference in Ghana this year. They are as follows:
 
-*Addressing the open data skill gap in Ghana and Africa
-*Building  open data awareness to business word, the media, government, civil society and citizens
-*Helping identify issues relating to access and use of open data
-*Facilitating stakeholder engagement to increase open data use in Ghana
-*Drive use of open data by business, the media, governments, civil society and the public
-*Promoting the development and harmonization of data standards across the board
-*Identifying the kind of data regime need for the most effective and robust systems for the implementation and reaching the SDG’s
-*Identifying and increasing the demand for open Government Data in Ghana.
+* Addressing the open data skill gap in Ghana and Africa
+* Building  open data awareness to business word, the media, government, civil society and citizens
+* Helping identify issues relating to access and use of open data
+* Facilitating stakeholder engagement to increase open data use in Ghana
+* Drive use of open data by business, the media, governments, civil society and the public
+* Promoting the development and harmonization of data standards across the board
+* Identifying the kind of data regime need for the most effective and robust systems for the implementation and reaching the SDG’s
+* Identifying and increasing the demand for open Government Data in Ghana.
