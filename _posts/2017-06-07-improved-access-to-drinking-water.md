@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  "Improvement in the Access to Sate-Drinking Water in Ghana"
+title:  "Improvement in the Access to Safe-Drinking Water in Ghana"
 date:   2017-06-07
 thumbnail: /img/blog/tap.jpg
 ---
