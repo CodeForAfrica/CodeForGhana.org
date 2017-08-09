@@ -7,7 +7,7 @@ thumbnail: /img/blog/klarity.jpg
 
 On Saturday the 5th of August 2017, [Klarity](http://klarity.org/), a Sweden-based Organisation, met up with Volunteers and anti-corruption enthusiasts at Mobile Web Ghana. The meeting was about the introduction of the Klarity platform in Ghana and the work that has been done so far after the first user-feedback workshop was held.
 
-The Klarity platform will help fight corruption by giving users the opportunity to record and post videos of corrupt acts they have witnessed. Eliza, co-founder of Klarity stated that ‘the content on the Klarity platform will be user-generated and peer-reviewed’. The meet up was organised in collaboration with [Tiger Eye PI](http://tigereyepi.org/). In attendance were people with diverse backgrounds with a common aim of fighting corruption. 
+The Klarity platform will help fight corruption by giving users the opportunity to record and post videos of corrupt acts they have witnessed. Eliza, deputy CEO of Klarity stated that ‘the content on the Klarity platform will be user-generated and peer-reviewed’. The meet up was organised in collaboration with [Tiger Eye PI](http://tigereyepi.org/). In attendance were people with diverse backgrounds with a common aim of fighting corruption. 
 
 Florence Toffa (Director of Mobile Web Ghana), gave the welcome address and introduced the speakers.
 
