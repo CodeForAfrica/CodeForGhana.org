@@ -1,7 +1,7 @@
 ---
 layout: post 
 title:  "Klarity Volunteers Meet Up"
-date:   2017-08-08 
+date:   2017-08-09 
 thumbnail: /img/blog/klarity.jpg
 ---
 
@@ -9,7 +9,7 @@ On Saturday the 5th of August 2017, [Klarity](http://klarity.org/), a Sweden-bas
 
 The Klarity platform will help fight corruption by giving users the opportunity to record and post videos of corrupt acts they have witnessed. Eliza, deputy CEO of Klarity stated that ‘the content on the Klarity platform will be user-generated and peer-reviewed’. The meet up was organised in collaboration with [Tiger Eye PI](http://tigereyepi.org/). In attendance were people with diverse backgrounds with a common aim of fighting corruption. 
 
-Florence Toffa (Director of Mobile Web Ghana), gave the welcome address and introduced the speakers.
+Florence Toffa (Director of [Mobile Web Ghana](http://mobilewebghana.org/)), gave the welcome address and introduced the speakers.
 
 Selasi, a representative of Tiger Eye PI - which is headed by popular Investigative Journalist, Anas Aremeyaw Anas – spoke about anti-corruption and the work that Tiger Eye PI has done to help curb corruption in Ghana. He again showed videos portraying some corrupt acts, as reported by some student journalists and volunteers trained by the Tiger Eye team. He introduced to participants, the hash tag,“JESUISANAS”.  The hash tag “JESUISANAS” will be used on Social Media by individuals reporting on corrupt acts or cases `to tell their story. He further explained that, “JESUISANAS” is open for all to share their stories on corruption. JESUISANAS which means ‘I am Anas’ is a campaign that seeks to inspire people to step up and take part in the fight against corruption. That is to say we all must be as concerned about corruption and bold enough to help fight it like world-renowned investigative journalist Anas Aremeyaw Anas has done over the years. 
  
